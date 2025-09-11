@@ -10,7 +10,7 @@ logging.basicConfig(level=logging.INFO)
 
 # ====== SOZLAMALAR ======
 TOKEN = "8349606885:AAGd0R64ey2ww7y9gE2aON-11Qe2VARyR6k"      # <-- bu yerga tokeningizni yozing
-ADMIN_ID =  [6852738257, 7419192521]              # <-- bu yerga admin Telegram ID ni yozing (raqam)
+ADMIN_ID =  6852738257         # <-- bu yerga admin Telegram ID ni yozing (raqam)
 CHANNEL_FILE = "channels.json"
 WEBHOOK_URL = "https://kino-3t6s.onrender.com"   # <-- HTTPS domainingiz
 # ========================
